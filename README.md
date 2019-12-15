@@ -1,0 +1,1 @@
+This follows spring.io tutorials to use gradle and to build REST service using spring boot and git. 
