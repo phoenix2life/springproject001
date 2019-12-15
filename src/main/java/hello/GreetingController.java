@@ -1,3 +1,5 @@
+//Restcontroller to provide request mapping URI, handle greeting with template for message. 
+//used for building REST service using spring boot. 
 package hello;
 
 import java.util.concurrent.atomic.AtomicLong;

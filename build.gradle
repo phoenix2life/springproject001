@@ -6,11 +6,12 @@ repositories{
 }
 //end::repositories[]
 
+// tag::dependencies[]
 dependencies{
 
 	classpath("org.springframework.boot:spring-boot-gradle-plugin:2.2.1.RELEASE")
 }
-
+//end::dependencies
 
 }
 

@@ -1,3 +1,6 @@
+//simple pojo containing id and greeting sting
+//will be converted to JSON
+//used for building REST service using spring boot
 package hello;
 
 public class Greeting{
